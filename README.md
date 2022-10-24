@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h3 align="center">Monte Carlo homogeneous fluid simulation  </h3>
+<h3 align="center"> Brownian Dynamics without hydrodynamic interactions  </h3>
 <h4 align="center">FORTRAN code to simulate two-dimensional Lennard-Jones colloids   </h4>
 
 <p align="center">
@@ -58,7 +58,7 @@ By default the simulation movie file creation is not activated, to active it unc
 The file is created in <i> *.xyz</i> format that could be visualizated in xmakemol or vmd
 ```bash
 # Load movie file
-$ vmd -f MCMovie.xyz
+$ vmd -f BDMovie.xyz
 ```
 
 * Initial configuration
