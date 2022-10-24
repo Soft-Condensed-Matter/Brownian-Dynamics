@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Alpixels/Brownian-Dynamics/blob/master/Colloid.png"><img src="https://github.com/Soft-Condensed-Matter/Monte-Carlo/blob/master/MC.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/Alpixels/Brownian-Dynamics/blob/master/Colloid.png"><img src="https://github.com/Alpixels/Brownian-Dynamics/blob/master/Colloid.png" alt="Markdownify" width="200"></a>
   <br>
   Brownian Dynamics
   <br>
