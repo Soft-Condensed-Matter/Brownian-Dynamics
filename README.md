@@ -96,12 +96,12 @@ GNU LGPL-v3
 
 * BibTex
 ```
-@software{MC_HS2022,
+@software{BD_2D2022,
   author = {Alexis Torres-Carbajal},
-  doi = {10.5281/zenodo.7117628,
-  month = {10},
-  title = {{Hard-Sphere Monte Carlo}},
-  url = {https://github.com/Soft-Condensed-Matter/Monte-Carlo},
+  doi = {10.5281/zenodo.7246285,
+  month = {11},
+  title = {{Two dimensional Brownian Dynamics}},
+  url = {https://github.com/Alpixels/Brownian-Dynamics},
   version = {1.0},
   year = {2022}
 }
