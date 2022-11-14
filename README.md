@@ -92,7 +92,7 @@ GNU LGPL-v3
 
 
 ## Cite this code
-[![DOI](https://zenodo.org/badge/542237113.svg)](https://zenodo.org/badge/latestdoi/542237113)
+[![DOI](https://zenodo.org/badge/556962761.svg)](https://zenodo.org/badge/latestdoi/556962761)
 
 * BibTex
 ```
